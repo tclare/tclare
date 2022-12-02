@@ -1,4 +1,4 @@
 - 👋  Hi, I’m @tclare
-- 👀  I’m interested in website and app development.
-- 💼  I work for Capital One as a full stack software engineer on our website (capitalone.com).
+- 👀  I’m interested in website and app development, particularly on the frontend side of things.
+- 💼  I work for Skydio as a full stack software engineer in their manufacturing department.
 - 📫  For any inquiries, reach out to tommy.a.clare@gmail.com!
